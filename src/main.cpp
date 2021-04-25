@@ -258,11 +258,6 @@ void usercontrol(void) {
     // update your motors, etc.
     // ........................................................................
 
-   
-
-   // lalalal
-
-
 //
 // Main will set up the competition functions and callbacks.
 //
